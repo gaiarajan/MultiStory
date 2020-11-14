@@ -1,6 +1,8 @@
 # MultiStory
 Creating a multi-pronged timeline for history from marginalized perspectives. 
 
+**[See current timeline here.](https://grajan22.github.io/MultiStory/)**
+
 ## Getting started 
 
 Go to [this spreadsheet](https://docs.google.com/spreadsheets/d/1pvig2SS3qYtAN36fMT38Os3749pRIkz0kDrJY3i849Y/edit?usp=sharing). All events for the original iteration of this assignment have already been created. Add text in the 'text' column, making sure to put it in the right row. Add any media in the corresponding rows. Please don't change the "type"; this column just delineates which slide is the title slide. You can use hex codes in the "background" column to add a pop of color!
